@@ -1,2 +1,2 @@
-# gitrepo01
+# git-repo
 Repository for Git demo
