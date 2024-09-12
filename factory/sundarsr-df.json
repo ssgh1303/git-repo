@@ -1,0 +1,9 @@
+{
+	"name": "sundarsr-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72d11f47-f3a1-4f44-9a62-7ff1d0fc5fa8",
+		"tenantId": "340929d9-c8ae-4e77-8e1d-0674600cd22f"
+	}
+}
